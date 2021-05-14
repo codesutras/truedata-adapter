@@ -1,4 +1,4 @@
-# Async Python Program for truedata
+# Async Python Program for truedata real-time feed
 A fast way of working with multiple instruement's reattime datafeed and processing them.This program is an adapter for working with [Truedata websocket API](https://www.truedata.in/api). Get telegram notification for script execution.
 
 This program have been tested to work with **500+ symbols** realtime datafeed processing without any issues.
