@@ -1,4 +1,4 @@
-# Async Python Programm for truedata
+# Async Python Program for truedata
 A fast way of working with multiple instruement's reattime datafeed and processing them.This program is an adapter for working with [Truedata websocket API](https://www.truedata.in/api).
 
 ## How to use it
