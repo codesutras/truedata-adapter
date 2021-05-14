@@ -1,0 +1,4 @@
+truedata-ws
+pandas
+asyncio
+python-telegram-bot
